@@ -26,7 +26,6 @@
 #App-container-fluid {
   text-align: center;
   background-color: red;
-
   padding: 5px 5px 5px 5px;
   color: white;
 }
@@ -41,6 +40,7 @@
   padding: 5px 5px 5px 5px;
   background-image: url('/images/dominik-kiss-341291-unsplash.jpg');
   color: white;
+  height: 100%;
 }
 .col{
   display: table-cell; 
@@ -63,6 +63,10 @@
   height:50%;
   width: 50%;
   float: right;
+}
+
+.waves-effect {
+  width: 250px;
 }
 
 @keyframes App-logo-spin {

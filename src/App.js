@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import scenes from './scenes.json';
+import Sound from 'react-sound';
 
 class App extends Component {
   constructor() {
@@ -18,7 +19,6 @@ class App extends Component {
 
   render() {
     return (
-
 
       <div className="App">
         <header className="App-header">
