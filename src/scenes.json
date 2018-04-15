@@ -1,0 +1,820 @@
+[
+  {
+    "text": "You're about to embark on a perilous journey through time! Before you begin, here are a few tips that may help to save your life! In each 'disaster', you'll be presented with a question you'll have to answer correctly in order to escape. If you answer incorectly, you'll be given a new question. If you answer that question incorrectly, you'll be given ONE FINAL QUESTION. If you guess all 3 questions incorectly, YOU'LL BE TAKING A DIRT NAP!!!",
+    "text2" : "",
+    "image" : "./images/dominik-kiss-341291-unsplash.jpg",
+    "options": [
+        {
+            "text": "Start the adventure!",
+            "send_to": 1
+        } 
+    ]
+  },
+  {
+  "text": "The Eruption of Mount Vesuvius - Mount Vesuvius, a volcano near the Bay of Naples in Italy, is hundreds of thousands of years old and has erupted more than 50 times. Its most famous eruption took place in the year 79 A.D., when the volcano buried the ancient Roman city of Pompeii under a thick carpet of volcanic ash. The dust “poured across the land” like a flood, one witness wrote, and shrouded the city in “a darkness…like the black of closed and unlighted rooms.",
+  "text2": "The people and buildings of Pompeii were covered in up to 12 different layers of rock fragments, in total, ____ft. deep, which rained down for about six hours.",
+  "image" :"./images/mandy-beerley-154518-unsplash.jpg",
+  "options": [
+      {
+          "text": "75",
+          "send_to": 2
+      },
+      {
+          "text": "82",
+          "send_to": 5
+      },
+      {
+          "text": "98",
+          "send_to": 2
+      },
+      {
+          "text": "104",
+          "send_to": 2
+      }
+  ]
+},
+{
+  "text": "The Eruption of Mount Vesuvius - Mount Vesuvius, a volcano near the Bay of Naples in Italy, is hundreds of thousands of years old and has erupted more than 50 times. Its most famous eruption took place in the year 79 A.D., when the volcano buried the ancient Roman city of Pompeii under a thick carpet of volcanic ash. The dust “poured across the land” like a flood, one witness wrote, and shrouded the city in “a darkness…like the black of closed and unlighted rooms.",
+  "text2": "After thick layers of ash covered Pompeii and Herculaneum, they were abandoned and eventually their names and locations were forgotten. The first time any part of them was unearthed was in ____, when the digging of an underground channel to divert the river Sarno ran into ancient walls covered with paintings and inscriptions.",
+  "image" : "./images/mandy-beerley-154518-unsplash.jpg",
+  "options": [
+      {
+          "text": "1599",
+          "send_to": 5
+      },
+      {
+          "text": "1605",
+          "send_to": 3
+      },
+      {
+          "text": "1607",
+          "send_to": 3
+      },
+      {
+          "text": "1609",
+          "send_to": 3
+      }
+  ]
+},
+{
+  "text": "The Eruption of Mount Vesuvius - Mount Vesuvius, a volcano near the Bay of Naples in Italy, is hundreds of thousands of years old and has erupted more than 50 times. Its most famous eruption took place in the year 79 A.D., when the volcano buried the ancient Roman city of Pompeii under a thick carpet of volcanic ash. The dust “poured across the land” like a flood, one witness wrote, and shrouded the city in “a darkness…like the black of closed and unlighted rooms.",
+  "text2": "In 1971, the rock band ________ filmed a live concert, in which they performed six songs in the ancient Roman amphitheater in Pompeii. The audience consisted only of the film's production crew and some local children.",
+  "image" : "./images/mandy-beerley-154518-unsplash.jpg",
+  "options": [
+      {
+          "text": "Led Zeppelin",
+          "send_to": 4
+      },
+      {
+          "text": "The Rolling Stones",
+          "send_to": 4
+      },
+      {
+          "text": "Aerosmith",
+          "send_to": 4
+      },
+      {
+          "text": "Pink Floyd",
+          "send_to": 5
+      }
+    ]
+},
+{
+  "text": "YOU'RE TOAST!!!",
+  "image" : "./images/cristian-grecu-264974-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 5
+      }
+    ]
+},
+{
+  "text": "The Black Death, also known as the Great Plague or the Black Plague, was a devastating global epidemic of bubonic plague that struck Europe and Asia in the mid-1300s. The plague arrived in Europe in October 1347, when 12 ships from the Black Sea docked at the Sicilian port of Messina. People gathered on the docks were met with a horrifying surprise: Most sailors aboard the ships were dead, and those still alive were gravely ill and covered in black boils that oozed blood and pus. Sicilian authorities hastily ordered the fleet of “death ships” out of the harbor, but it was too late.",
+  "text2": "The Black Death is estimated to have killed _______ of Europe's total population.",
+  "image" : "./images/larm-rmah-273644-unsplash.jpg",
+  "options": [
+      {
+          "text": "10–30%",
+          "send_to": 6
+      },
+      {
+          "text": "20-50%",
+          "send_to": 6
+      },
+      {
+          "text": "30-60%",
+          "send_to": 9
+      },
+      {
+          "text": "40-70%",
+          "send_to": 6
+      }
+    ]
+},{
+  "text": "The Black Death, also known as the Great Plague or the Black Plague, was a devastating global epidemic of bubonic plague that struck Europe and Asia in the mid-1300s. The plague arrived in Europe in October 1347, when 12 ships from the Black Sea docked at the Sicilian port of Messina. People gathered on the docks were met with a horrifying surprise: Most sailors aboard the ships were dead, and those still alive were gravely ill and covered in black boils that oozed blood and pus. Sicilian authorities hastily ordered the fleet of “death ships” out of the harbor, but it was too late.",
+  "text2": "It took ___ years for the world population to recover to its previous level.",
+  "image" : "./images/larm-rmah-273644-unsplash.jpg",
+  "options": [
+      {
+          "text": "100",
+          "send_to": 7
+      },
+      {
+          "text": "200",
+          "send_to": 9
+      },
+      {
+          "text": "300",
+          "send_to": 7
+      },
+      {
+          "text": "400",
+          "send_to": 7
+      }
+    ]
+},{
+  "text": "The Black Death, also known as the Great Plague or the Black Plague, was a devastating global epidemic of bubonic plague that struck Europe and Asia in the mid-1300s. The plague arrived in Europe in October 1347, when 12 ships from the Black Sea docked at the Sicilian port of Messina. People gathered on the docks were met with a horrifying surprise: Most sailors aboard the ships were dead, and those still alive were gravely ill and covered in black boils that oozed blood and pus. Sicilian authorities hastily ordered the fleet of “death ships” out of the harbor, but it was too late.",
+  "text2": "Some upper-class men joined processions of __________ that traveled from town to town and engaged in public displays of penance and punishment.",
+  "image" : "./images/larm-rmah-273644-unsplash.jpg",
+  "options": [
+      {
+          "text": "heretics",
+          "send_to": 8
+      },
+      {
+          "text": "cardinals",
+          "send_to": 8
+      },
+      {
+          "text": "paupers",
+          "send_to": 8
+      },
+      {
+          "text": "flagellants",
+          "send_to": 9
+      }
+    ]
+},
+{
+  "text": "DID YOU GO PEACEFULLY?",
+  "image" : "./images/daniel-garcia-473223-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 9
+      }
+    ]
+},
+{
+  "text": "The Chicago Fire of 1871, also called the Great Chicago Fire, burned from October 8 to October 10, 1871, and destroyed thousands of buildings, killed an estimated 300 people and caused an estimated $200 million in damages.",
+  "text2": "The month after the fire, ______ was elected mayor after promising to institute stricter building and fire codes.",
+  "image" : "./images/chicago_fire_1871_001.jpg",
+  "options": [
+      {
+          "text": "Thomas Dyer",
+          "send_to": 10
+      },
+      {
+          "text": "William B. Ogden",
+          "send_to": 10
+      },
+      {
+          "text": "Anton Cermak",
+          "send_to": 10
+      },
+      {
+          "text": "Joseph Medill",
+          "send_to": 13
+      }
+    ]
+},{
+  "text": "The Chicago Fire of 1871, also called the Great Chicago Fire, burned from October 8 to October 10, 1871, and destroyed thousands of buildings, killed an estimated 300 people and caused an estimated $200 million in damages.",
+  "text2": "In _____, Chicago hosted the World’s Columbian Exposition, a tourist attraction visited by some 27.5 million people.",
+  "image" : "./images/chicago_fire_1871_001.jpg",
+  "options": [
+      {
+          "text": "1893",
+          "send_to": 11
+      },
+      {
+          "text": "1894",
+          "send_to": 11
+      },
+      {
+          "text": "1895",
+          "send_to": 11
+      },
+      {
+          "text": "1896",
+          "send_to": 13
+      }
+    ]
+},
+{
+  "text": "The Chicago Fire of 1871, also called the Great Chicago Fire, burned from October 8 to October 10, 1871, and destroyed thousands of buildings, killed an estimated 300 people and caused an estimated $200 million in damages.",
+  "text2": "Today, the Chicago Fire Department training academy is located on the site of the _________ property where the Great Chicago Fire started.",
+  "image" : "./images/chicago_fire_1871_001.jpg",
+  "options": [
+      {
+          "text": "Cermak",
+          "send_to": 12
+      },
+      {
+          "text": "O’Leary",
+          "send_to": 13
+      },
+      {
+          "text": "Pulaski",
+          "send_to": 12
+      },
+      {
+          "text": "Sullivan",
+          "send_to": 12
+      }
+    ]
+},
+{
+  "text": "YOU'LL BE MISSED!!!",
+  "image" : "./images/ben-white-194220-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 13
+      }
+    ]
+},
+{
+  "text": "The 1906 San Francisco earthquake struck the coast of Northern California at 5:12 a.m. on April 18 with an estimated moment magnitude of 7.9 and a maximum Mercalli intensity of XI (Extreme). High intensity shaking was felt from Eureka on the North Coast to the Salinas Valley, an agricultural region to the south of the San Francisco Bay Area. Devastating fires soon broke out in the city and lasted for several days. The events are remembered as one of the worst and deadliest earthquakes in the history of the United States. The death toll remains the greatest loss of life from a natural disaster in California's history and high in the lists of American urban disasters.",
+  "text2": "As a result of the earthquake, up to 3,000 people died and over ___ of the city of San Francisco was destroyed.",
+  "image" : "./images/o-SAN-FRANCISCO-1906-EARTHQUAKE-ANNIVERSARY-facebook.jpg",
+  "options": [
+      {
+          "text": "50%",
+          "send_to": 14
+      },
+      {
+          "text": "60%",
+          "send_to": 14
+      },
+      {
+          "text": "70%",
+          "send_to": 14
+      },
+      {
+          "text": "80%",
+          "send_to": 17
+      }
+    ]
+},{
+  "text": "The 1906 San Francisco earthquake struck the coast of Northern California at 5:12 a.m. on April 18 with an estimated moment magnitude of 7.9 and a maximum Mercalli intensity of XI (Extreme). High intensity shaking was felt from Eureka on the North Coast to the Salinas Valley, an agricultural region to the south of the San Francisco Bay Area. Devastating fires soon broke out in the city and lasted for several days. The events are remembered as one of the worst and deadliest earthquakes in the history of the United States. The death toll remains the greatest loss of life from a natural disaster in California's history and high in the lists of American urban disasters.",
+  "text2": "The ____________ is a continental transform fault that forms part of the tectonic boundary between the Pacific Plate and the North American Plate.",
+  "image" : "./images/o-SAN-FRANCISCO-1906-EARTHQUAKE-ANNIVERSARY-facebook.jpg",
+  "options": [
+      {
+          "text": "San Ramón Fault",
+          "send_to": 15
+      },
+      {
+          "text": "San Andreas Fault",
+          "send_to": 17
+      },
+      {
+          "text": "Awatere Fault",
+          "send_to": 15
+      },
+      {
+          "text": "Sawtooth Fault",
+          "send_to": 15
+      }
+    ]
+},{
+  "text": "The 1906 San Francisco earthquake struck the coast of Northern California at 5:12 a.m. on April 18 with an estimated moment magnitude of 7.9 and a maximum Mercalli intensity of XI (Extreme). High intensity shaking was felt from Eureka on the North Coast to the Salinas Valley, an agricultural region to the south of the San Francisco Bay Area. Devastating fires soon broke out in the city and lasted for several days. The events are remembered as one of the worst and deadliest earthquakes in the history of the United States. The death toll remains the greatest loss of life from a natural disaster in California's history and high in the lists of American urban disasters.",
+  "text2": "At the time of the disaster, San Francisco had been the _____ -largest city in the United States and the largest on the West Coast, with a population of about 410,000.",
+  "image" : "./images/o-SAN-FRANCISCO-1906-EARTHQUAKE-ANNIVERSARY-facebook.jpg",
+  "options": [
+      {
+          "text": "fifth",
+          "send_to": 16
+      },
+      {
+          "text": "seventh",
+          "send_to": 16
+      },
+      {
+          "text": "ninth",
+          "send_to": 17
+      },
+      {
+          "text": "eleventh",
+          "send_to": 16
+      }
+    ]
+},
+{
+  "text": "WALK TOWARDS THE LIGHT!!!",
+  "image" : "./images/miro-polca-6756-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 17
+      }
+    ]
+},
+{
+  "text": "RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. It was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster.",
+  "text2": "The name Titanic was derived from Greek mythology and meant _________.",
+  "image" : "./images/2124.jpg",
+  "options": [
+      {
+          "text": "magnificent",
+          "send_to": 18
+      },
+      {
+          "text": "gigantic",
+          "send_to": 21
+      },
+      {
+          "text": "titan",
+          "send_to": 18
+      },
+      {
+          "text": "powerful",
+          "send_to": 18
+      }
+    ]
+},
+{
+  "text": "RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. It was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster.",
+  "text2": "The wreck of Titanic was discovered in ____ (more than 70 years after the disaster), and remains on the seabed.",
+  "image" : "./images/2124.jpg",
+  "options": [
+      {
+          "text": "1985",
+          "send_to": 21
+      },
+      {
+          "text": "1986",
+          "send_to": 19
+      },
+      {
+          "text": "1987",
+          "send_to": 19
+      },
+      {
+          "text": "1988",
+          "send_to": 19
+      }
+    ]
+},{
+  "text": "RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. It was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster.",
+  "text2": "Titanic was under the command of Edward Smith, who went down with the ship.",
+  "image" : "./images/2124.jpg",
+  "options": [
+      {
+          "text": "true",
+          "send_to": 21
+      },
+      {
+          "text": "false",
+          "send_to": 20
+      }
+      
+    ]
+},
+{
+  "text": "BON VOYAGE!!!",
+  "image" : "./images/tim-marshall-76166-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 21
+      }
+    ]
+},
+{
+  "text":"The Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
+  "text2": "Many late nineteenth and early twentieth century settlers lived by the superstition “_______________.” Emigrants, land speculators, politicians and even some scientists believed that homesteading and agriculture would permanently affect the climate of the semi-arid Great Plains region, making it more conducive to farming.",
+  "image" : "./images/matthieu-joannon-457999-unsplash.jpg",
+  "options": [
+      {
+          "text": "rain follows the plow",
+          "send_to": 25
+      },
+      {
+          "text": "rain follows a good harvest",
+          "send_to": 22
+      },
+      {
+          "text": "rain follows a bad harvest",
+          "send_to": 22
+      },
+      {
+          "text": "rain follows a dry spell",
+          "send_to": 22
+      }
+    ]
+},
+{
+  "text":"The Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
+  "text2": "The belief that Americans had a sacred duty to expand west was called ____________.",
+  "image" : "./images/matthieu-joannon-457999-unsplash.jpg",
+  "options": [
+      {
+          "text": "The White Man’s Burden",
+          "send_to": 23
+      },
+      {
+          "text": "Quid Pro Quo",
+          "send_to": 23
+      },
+      {
+          "text": "Manifest Destiny",
+          "send_to": 25
+      },
+      {
+          "text": "Move and Prosper",
+          "send_to": 23
+      }
+    ]
+},{
+  "text":"The Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
+  "text2": "During the Dust Bowl period, severe dust storms, often called “_____________” swept the Great Plains. Some of these carried Great Plains topsoil as far east as Washington, D.C. and New York City, and coated ships in the Atlantic Ocean with dust.",
+  "image" : "./images/matthieu-joannon-457999-unsplash.jpg",
+  "options": [
+      {
+          "text": "dirt bombs",
+          "send_to": 24
+      },
+      {
+          "text": "sand rain",
+          "send_to": 24
+      },
+      {
+          "text": "whirling dervishes",
+          "send_to": 24
+      },
+      {
+          "text": "black blizzards",
+          "send_to": 25
+      }
+    ]
+},
+{
+  "text": "YOU SHOULD HAVE MOISTURIZED!!!",
+  "image" : "./images/ian-espinosa-177961-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 25
+      }
+    ]
+},
+{
+  "text": "The Hindenburg disaster at Lakehurst, New Jersey on May 6, 1937 brought an end to the age of the rigid airship. The disaster killed 35 persons on the airship, and one member of the ground crew, but miraculously 62 of the 97 passengers and crew survived. After more than 30 years of passenger travel on commercial zeppelins — in which tens of thousands of passengers flew over a million miles, on more than 2,000 flights, without a single injury — the era of the passenger airship came to an end in a few fiery minutes.",
+  "text2": "The ship was used as a symbol of German strength and modern capability by Nazi propaganda minister ___________.",
+  "image" : "./images/2665005.jpg",
+  "options": [
+      {
+          "text": "Adolf Hitler",
+          "send_to": 26
+      },
+      {
+          "text": "Joseph Mengele",
+          "send_to": 26
+      },
+      {
+          "text": "Joseph Goebbels",
+          "send_to": 29
+      },
+      {
+          "text": "Eva Braun",
+          "send_to": 26
+      }
+    ]
+},{
+  "text": "The Hindenburg disaster at Lakehurst, New Jersey on May 6, 1937 brought an end to the age of the rigid airship. The disaster killed 35 persons on the airship, and one member of the ground crew, but miraculously 62 of the 97 passengers and crew survived. After more than 30 years of passenger travel on commercial zeppelins — in which tens of thousands of passengers flew over a million miles, on more than 2,000 flights, without a single injury — the era of the passenger airship came to an end in a few fiery minutes.",
+  "text2": "What did the Hindenberg use for fuel?",
+  "image" : "./images/2665005.jpg",
+  "options": [
+      {
+          "text": "hydrogen",
+          "send_to": 29
+      },
+      {
+          "text": "helium",
+          "send_to": 27
+      },
+      {
+          "text": "nitrogen",
+          "send_to": 27
+      },
+      {
+          "text": "oxygen",
+          "send_to": 27
+      }
+    ]
+},{
+  "text": "The Hindenburg disaster at Lakehurst, New Jersey on May 6, 1937 brought an end to the age of the rigid airship. The disaster killed 35 persons on the airship, and one member of the ground crew, but miraculously 62 of the 97 passengers and crew survived. After more than 30 years of passenger travel on commercial zeppelins — in which tens of thousands of passengers flew over a million miles, on more than 2,000 flights, without a single injury — the era of the passenger airship came to an end in a few fiery minutes.",
+  "text2": "The disaster was well-documented because of the combination of many news crews having been on site at the time of the airship exploding and the significant extent of newsreel coverage and photographs, as well as Herbert Morrison's famous eyewitness radio report for radio station ________ in Chicago, which was broadcast the next day.",
+  "image" : "./images/2665005.jpg",
+  "options": [
+      {
+          "text": "WGN",
+          "send_to": 28
+      },
+      {
+          "text": "WLS",
+          "send_to": 29
+      },
+      {
+          "text": "WBBM",
+          "send_to": 28
+      },
+      {
+          "text": "WBEZ",
+          "send_to": 28
+      }
+    ]
+},
+{
+  "text": "SHHH! I'M ONLY COMING FOR YOU!",
+  "image" : "./images/max-bender-431968-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 29
+      }
+    ]
+},
+{
+  "text": "The attack on Pearl Harbor was a surprise military strike by the Imperial Japanese Navy Air Service against the United States naval base at Pearl Harbor, Hawaii Territory, on the morning of December 7, 1941. The attack, also known as the Battle of Pearl Harbor, led to the United States' entry into World War II. The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning. Japan intended the attack as a preventive action to keep the U.S. Pacific Fleet from interfering with military actions that were planned in Southeast Asia against overseas territories of the United Kingdom, the Netherlands, and the United States. Over the next seven hours there were coordinated Japanese attacks on the U.S.-held Philippines, Guam and Wake Island and on the British Empire in Malaya, Singapore, and Hong Kong",
+  "text2": "Who was the President of the U.S. during this time?",
+  "image" : "./images/1207pearlharborattack_0.jpg",
+  "options": [
+      {
+          "text": "Eisenhower",
+          "send_to": 30
+      },
+      {
+          "text": "Truman",
+          "send_to": 30
+      },
+      {
+          "text": "Roosevelt",
+          "send_to": 33
+      },
+      {
+          "text": "Hoover",
+          "send_to": 30
+      }
+    ]
+},{
+  "text": "The attack on Pearl Harbor was a surprise military strike by the Imperial Japanese Navy Air Service against the United States naval base at Pearl Harbor, Hawaii Territory, on the morning of December 7, 1941. The attack, also known as the Battle of Pearl Harbor, led to the United States' entry into World War II. The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning. Japan intended the attack as a preventive action to keep the U.S. Pacific Fleet from interfering with military actions that were planned in Southeast Asia against overseas territories of the United Kingdom, the Netherlands, and the United States. Over the next seven hours there were coordinated Japanese attacks on the U.S.-held Philippines, Guam and Wake Island and on the British Empire in Malaya, Singapore, and Hong Kong",
+  "text2": "The attack lasted ____ minutes.",
+  "image" : "./images/1207pearlharborattack_0.jpg",
+  "options": [
+      {
+          "text": "80",
+          "send_to": 31
+      },
+      {
+          "text": "90",
+          "send_to": 31
+      },
+      {
+          "text": "100",
+          "send_to": 31
+      },
+      {
+          "text": "110",
+          "send_to": 33
+      }
+    ]
+},{
+  "text": "The attack on Pearl Harbor was a surprise military strike by the Imperial Japanese Navy Air Service against the United States naval base at Pearl Harbor, Hawaii Territory, on the morning of December 7, 1941. The attack, also known as the Battle of Pearl Harbor, led to the United States' entry into World War II. The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI, and as Operation Z during its planning. Japan intended the attack as a preventive action to keep the U.S. Pacific Fleet from interfering with military actions that were planned in Southeast Asia against overseas territories of the United Kingdom, the Netherlands, and the United States. Over the next seven hours there were coordinated Japanese attacks on the U.S.-held Philippines, Guam and Wake Island and on the British Empire in Malaya, Singapore, and Hong Kong",
+  "text2": "Which sunken ship was raised from the depths of Pearl Harbor?",
+  "image" : "./images/1207pearlharborattack_0.jpg",
+  "options": [
+      {
+          "text": "USS Utah",
+          "send_to": 32
+      },
+      {
+          "text": "USS Arizona",
+          "send_to": 32
+      },
+      {
+          "text": "USS Oklahoma",
+          "send_to": 33
+      },
+      {
+          "text": "USS Maryland",
+          "send_to": 32
+      }
+    ]
+},
+{
+  "text": "HAVE A SEAT. I'VE BEEN WAITING FOR YOU.",
+  "image" : "./images/alex-iby-461338-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 33
+      }
+    ]
+},
+{
+  "text": "The 2004 Indian Ocean earthquake occurred at 00:58:53 UTC on December 26 with the epicenter off the west coast of Sumatra, Indonesia. The shock had a moment magnitude of 9.1–9.3 and a maximum Mercalli intensity of IX (Violent). The undersea megathrust earthquake triggered a series of devastating tsunamis along the coasts of most landmasses bordering the Indian Ocean, killing 230,000–280,000 people in 14 countries, and inundating coastal communities with waves up to 100 ft high. It was one of the deadliest natural disasters in recorded history. Indonesia was the hardest-hit country, followed by Sri Lanka, India, and Thailand.",
+  "text2": "The Indian Ocean earthquake is the_____ earthquake ever recorded on a seismograph.",
+  "image" : "./images/austin-schmid-41046-unsplash.jpg",
+  "options": [
+      {
+          "text": "largest",
+          "send_to": 34
+      },
+      {
+          "text": "second largest",
+          "send_to": 34
+      },
+      {
+          "text": "third largest",
+          "send_to": 37
+      },
+      {
+          "text": "fourth largest",
+          "send_to": 34
+      }
+    ]
+},{
+  "text": "The 2004 Indian Ocean earthquake occurred at 00:58:53 UTC on December 26 with the epicenter off the west coast of Sumatra, Indonesia. The shock had a moment magnitude of 9.1–9.3 and a maximum Mercalli intensity of IX (Violent). The undersea megathrust earthquake triggered a series of devastating tsunamis along the coasts of most landmasses bordering the Indian Ocean, killing 230,000–280,000 people in 14 countries, and inundating coastal communities with waves up to 100 ft high. It was one of the deadliest natural disasters in recorded history. Indonesia was the hardest-hit country, followed by Sri Lanka, India, and Thailand.",
+  "text2": "The rupture caused by the earthquake was more than _____ miles long, displacing the seafloor by 10 yards horizontally and several yards vertically. As a result, trillions of tons of rock moved, causing the largest magnitude earthquake in 40 years.",
+  "image" : "./images/austin-schmid-41046-unsplash.jpg",
+  "options": [
+      {
+          "text": "300",
+          "send_to": 35
+      },
+      {
+          "text": "400",
+          "send_to": 35
+      },
+      {
+          "text": "500",
+          "send_to": 35
+      },
+      {
+          "text": "600",
+          "send_to": 37
+      }
+    ]
+},{
+  "text": "The 2004 Indian Ocean earthquake occurred at 00:58:53 UTC on December 26 with the epicenter off the west coast of Sumatra, Indonesia. The shock had a moment magnitude of 9.1–9.3 and a maximum Mercalli intensity of IX (Violent). The undersea megathrust earthquake triggered a series of devastating tsunamis along the coasts of most landmasses bordering the Indian Ocean, killing 230,000–280,000 people in 14 countries, and inundating coastal communities with waves up to 100 ft high. It was one of the deadliest natural disasters in recorded history. Indonesia was the hardest-hit country, followed by Sri Lanka, India, and Thailand.",
+  "text2": "A tsunami is a series of _______.",
+  "image" : "./images/austin-schmid-41046-unsplash.jpg",
+  "options": [
+      {
+          "text": "earth tremors",
+          "send_to": 36
+      },
+      {
+          "text": "earthquakes",
+          "send_to": 36
+      },
+      {
+          "text": "hurricanes",
+          "send_to": 36
+      },
+      {
+          "text": "waves",
+          "send_to": 37
+      }
+    ]
+},
+{
+  "text": "ENJOY YOUR STAY! THERE ARE CLEAN TOWELS IN THE BATHROOM!",
+  "image" : "./images/shttefan-280960-unsplash.jpg",
+  "options": [
+      {
+          "text": "CONTINUE ON YOUR JOURNEY!",
+          "send_to": 37
+      }
+    ]
+},
+{
+  "text": "Early in the morning on August 29, 2005, Hurricane Katrina struck the Gulf Coast of the United States. When the storm made landfall, it had a Category 3 rating on the Saffir-Simpson Hurricane Scale–it brought sustained winds of 100–140 miles per hour–and stretched some 400 miles across. The storm itself did a great deal of damage, but its aftermath was catastrophic. Levee breaches led to massive flooding, and many people charged that the federal government was slow to meet the needs of the people affected by the storm. Hundreds of thousands of people in Louisiana, Mississippi and Alabama were displaced from their homes, and experts estimate that Katrina caused more than $100 billion in damage.",
+  "text2": "Katrina attained __________ status on the morning of August 28 and reached its peak strength at 4 PM that day.",
+  "image" : "./images/165868-004-28F6CB61.jpg",
+  "options": [
+      {
+          "text": "Category 3",
+          "send_to": 38
+      },
+      {
+          "text": "Category 4",
+          "send_to": 38
+      },
+      {
+          "text": "Category 5",
+          "send_to": 41
+      },
+      {
+          "text": "Category 6",
+          "send_to": 38
+      }
+    ]
+},{
+  "text": "Early in the morning on August 29, 2005, Hurricane Katrina struck the Gulf Coast of the United States. When the storm made landfall, it had a Category 3 rating on the Saffir-Simpson Hurricane Scale–it brought sustained winds of 100–140 miles per hour–and stretched some 400 miles across. The storm itself did a great deal of damage, but its aftermath was catastrophic. Levee breaches led to massive flooding, and many people charged that the federal government was slow to meet the needs of the people affected by the storm. Hundreds of thousands of people in Louisiana, Mississippi and Alabama were displaced from their homes, and experts estimate that Katrina caused more than $100 billion in damage.",
+  "text2": "About __% of the city of New Orleans flooded to varying depths up to about 20 feet. The business district and main tourist centers were relatively undamaged, but vast sections of many New Orleans neighborhoods were inundated, making Katrina the largest residential disaster in U.S. history.",
+  "image" : "./images/165868-004-28F6CB61.jpg",
+  "options": [
+      {
+          "text": "80%",
+          "send_to": 41
+      },
+      {
+          "text": "70%",
+          "send_to": 39
+      },
+      {
+          "text": "60%",
+          "send_to": 39
+      },
+      {
+          "text": "40%",
+          "send_to": 39
+      }
+    ]
+},{
+  "text": "Early in the morning on August 29, 2005, Hurricane Katrina struck the Gulf Coast of the United States. When the storm made landfall, it had a Category 3 rating on the Saffir-Simpson Hurricane Scale–it brought sustained winds of 100–140 miles per hour–and stretched some 400 miles across. The storm itself did a great deal of damage, but its aftermath was catastrophic. Levee breaches led to massive flooding, and many people charged that the federal government was slow to meet the needs of the people affected by the storm. Hundreds of thousands of people in Louisiana, Mississippi and Alabama were displaced from their homes, and experts estimate that Katrina caused more than $100 billion in damage.",
+  "text2": "The storm surge from Katrina was ____ ft high.",
+  "image" : "./images/165868-004-28F6CB61.jpg",
+  "options": [
+      {
+          "text": "20",
+          "send_to": 41
+      },
+      {
+          "text": "25",
+          "send_to": 40
+      },
+      {
+          "text": "30",
+          "send_to": 40
+      },
+      {
+          "text": "35",
+          "send_to": 40
+      }
+    ]
+},
+{
+  "text": "YOU LOSE BIG TIME! WE'RE GONNA HAVE SO MUCH FUN!",
+  "image" : "./images/robert-zunikoff-428940-unsplash.jpg",
+  "options": [
+      {
+          "text": "CARE TO TRY AGAIN? - YES!",
+          "send_to": 1
+      },
+      {
+        "text": "CARE TO TRY AGAIN? - NO!",
+        "send_to": 42
+    }
+    ]
+},
+{
+  "text": "CONGRATS! YOU'RE A WINNER, BABY!!!",
+  "image" : "./images/BEAUIFUL-SKY.jpg",
+  "options": [
+      {
+          "text": "CARE TO TRY AGAIN? - YES!",
+          "send_to": 1
+      },
+      {
+        "text": "CARE TO TRY AGAIN? - NO",
+        "send_to": 43
+    }
+    ]
+},
+{
+  "text": "OH WELL . . . ENJOY THE AFTERLIFE!",
+  "image" : "./images/robert-zunikoff-428940-unsplash.jpg",
+  "options": [
+      {
+        "text": "BACK TO THE BEGINNING",
+        "send_to": 0
+    }
+    ]
+},
+{
+  "text": "YOU'LL ALWAYS BE A WINNER TO ME!",
+  "image" : "./images/BEAUIFUL-SKY.jpg",
+  "options": [
+      {
+        "text": "BACK TO THE BEGINNING",
+        "send_to": 0
+      }
+    ]
+}
+]
+  
