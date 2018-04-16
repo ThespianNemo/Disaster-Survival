@@ -84,7 +84,7 @@
   "image" : "./images/cristian-grecu-264974-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 5
       }
     ]
@@ -161,7 +161,7 @@
   "image" : "./images/daniel-garcia-473223-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 9
       }
     ]
@@ -239,7 +239,7 @@
   "image" : "./images/ben-white-194220-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 13
       }
     ]
@@ -316,7 +316,7 @@
   "image" : "./images/miro-polca-6756-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 17
       }
     ]
@@ -387,30 +387,22 @@
   "image" : "./images/tim-marshall-76166-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 21
       }
     ]
 },
 {
-  "text":"The Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
-  "text2": "Many late nineteenth and early twentieth century settlers lived by the superstition “_______________.” Emigrants, land speculators, politicians and even some scientists believed that homesteading and agriculture would permanently affect the climate of the semi-arid Great Plains region, making it more conducive to farming.",
+  "text":"he Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
+  "text2": "A single storm generated enough static electricity to short radios and cars and caused blue flames to erupt from barbed wire fences. It was so strong it even knocked full grown men off their feet if they accidentally touched or shook hands.",
   "image" : "./images/matthieu-joannon-457999-unsplash.jpg",
   "options": [
       {
-          "text": "rain follows the plow",
+          "text": "TRUE",
           "send_to": 25
       },
       {
-          "text": "rain follows a good harvest",
-          "send_to": 22
-      },
-      {
-          "text": "rain follows a bad harvest",
-          "send_to": 22
-      },
-      {
-          "text": "rain follows a dry spell",
+          "text": "FALSE",
           "send_to": 22
       }
     ]
@@ -465,7 +457,7 @@
   "image" : "./images/ian-espinosa-177961-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 25
       }
     ]
@@ -542,7 +534,7 @@
   "image" : "./images/max-bender-431968-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 29
       }
     ]
@@ -619,7 +611,7 @@
   "image" : "./images/alex-iby-461338-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 33
       }
     ]
@@ -696,7 +688,7 @@
   "image" : "./images/shttefan-280960-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE ON YOUR JOURNEY!",
+          "text": "CONTINUE THE JOURNEY!",
           "send_to": 37
       }
     ]
