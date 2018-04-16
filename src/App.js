@@ -30,14 +30,21 @@ class App extends Component {
   }
 
   render() {
-    {/*url (string): The url of the sound to play.
-    playStatus (Sound.status.{PLAYING,STOPPED,PAUSED}): The current sound playing status. Change it in successive renders to play, stop, pause and resume the sound.*/}
+    const divStyle = {
+      backgroundImage: `url('/images/dominik-kiss-341291-unsplash.jpg')`,
+      height: "100vh",
+      backgroundSize: "auto 100%",
+      backgroundRepeat: "no-repeat",
+      backgroundPosition: "left top",
+      backgroundSize: "cover"
+    };
+      
     return (
+      <div className="App" style={divStyle}>
 
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">Welcome to Disaster Survival!</h1>
-          {/* <Sound url="./Audio/City-of-Dread_Looping.mp3" playStatus="PLAYING" />; */}
         </header>
 
         {/*Contains the disaster history>*/}
@@ -49,7 +56,7 @@ class App extends Component {
           <div className="col-container">
             <div className="col-md-{6}" className="col">
               <section className="game-section">
-                <img className="circle" src={scenes[this.state.scene_num].image} alt="historical portrayals" width="400" height="400" />
+                <img className="circle" src={scenes[this.state.scene_num].image} alt="historical portrayals" width="450" height="450" />
               </section>
             </div>
 
@@ -69,6 +76,7 @@ class App extends Component {
             </div>
           </div>
         </div>
+      </div>
       </div>
     )
   }
