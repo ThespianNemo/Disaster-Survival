@@ -3,6 +3,7 @@ import './App.css';
 import scenes from './scenes.json';
 import Sound from 'react-sound';
 import CitySounds from './Audio/City-of-Dread_Looping.mp3'
+import Happy from './Audio/Happy-Endings.mp3'
 
 class App extends Component {
   constructor() {
@@ -20,9 +21,16 @@ class App extends Component {
   }
 
   nextScene = (s) => {
-    if ([40,41,42,43].indexOf(s) > -1){
+    if(s == 0 || s == 1){
       this.audio.pause();
-    }else if(s == 0 || s == 1){
+      this.audio = new Audio(CitySounds);
+      this.audio.play();
+    } else if ([40,41,42,43].indexOf(s) > -1){
+      this.audio.pause();
+    } 
+    
+    if(s == 41 || s == 43){
+      this.audio = new Audio(Happy);
       this.audio.play();
     }
     //changes scene_num in state to whatever gets passed in
