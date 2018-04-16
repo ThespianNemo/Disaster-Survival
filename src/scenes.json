@@ -84,8 +84,8 @@
   "image" : "./images/cristian-grecu-264974-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 5
+          "text": "TRY AGAIN!",
+          "send_to": 1
       }
     ]
 },
@@ -161,8 +161,8 @@
   "image" : "./images/daniel-garcia-473223-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 9
+          "text": "TRY AGAIN!",
+          "send_to": 5
       }
     ]
 },
@@ -239,8 +239,8 @@
   "image" : "./images/ben-white-194220-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 13
+          "text": "TRY AGAIN!",
+          "send_to": 9
       }
     ]
 },
@@ -316,8 +316,8 @@
   "image" : "./images/miro-polca-6756-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 17
+          "text": "TRY AGAIN!",
+          "send_to": 13
       }
     ]
 },
@@ -387,13 +387,13 @@
   "image" : "./images/tim-marshall-76166-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 21
+          "text": "TRY AGAIN!",
+          "send_to": 17
       }
     ]
 },
 {
-  "text":"he Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
+  "text":"The Dust Bowl was the name given to the drought-stricken Southern Plains region of the United States, which suffered severe dust storms during a dry period in the 1930s. As high winds and choking dust swept the region from Texas to Nebraska, people and livestock were killed and crops failed across the entire region. The Dust Bowl intensified the crushing economic impacts of the Great Depression and drove many farming families on a desperate migration in search of work and better living conditions.",
   "text2": "A single storm generated enough static electricity to short radios and cars and caused blue flames to erupt from barbed wire fences. It was so strong it even knocked full grown men off their feet if they accidentally touched or shook hands.",
   "image" : "./images/matthieu-joannon-457999-unsplash.jpg",
   "options": [
@@ -457,8 +457,8 @@
   "image" : "./images/ian-espinosa-177961-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 25
+          "text": "TRY AGAIN!",
+          "send_to": 21
       }
     ]
 },
@@ -534,8 +534,8 @@
   "image" : "./images/max-bender-431968-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 29
+          "text": "TRY AGAIN!",
+          "send_to": 25
       }
     ]
 },
@@ -611,8 +611,8 @@
   "image" : "./images/alex-iby-461338-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 33
+          "text": "TRY AGAIN!",
+          "send_to": 29
       }
     ]
 },
@@ -688,8 +688,8 @@
   "image" : "./images/shttefan-280960-unsplash.jpg",
   "options": [
       {
-          "text": "CONTINUE THE JOURNEY!",
-          "send_to": 37
+          "text": "TRY AGAIN!",
+          "send_to": 33
       }
     ]
 },
@@ -766,7 +766,7 @@
   "options": [
       {
           "text": "CARE TO TRY AGAIN? - YES!",
-          "send_to": 1
+          "send_to": 37
       },
       {
         "text": "CARE TO TRY AGAIN? - NO!",
@@ -779,18 +779,18 @@
   "image" : "./images/BEAUIFUL-SKY.jpg",
   "options": [
       {
-          "text": "CARE TO TRY AGAIN? - YES!",
+          "text": "ONE MORE TIME? - YES!",
           "send_to": 1
       },
       {
-        "text": "CARE TO TRY AGAIN? - NO",
+        "text": "ONE MORE TIME? - NO",
         "send_to": 43
     }
     ]
 },
 {
-  "text": "OH WELL . . . ENJOY THE AFTERLIFE!",
-  "image" : "./images/robert-zunikoff-428940-unsplash.jpg",
+  "text": "OH, WELL . . . ENJOY THE AFTERLIFE!",
+  "image" : "./images/fred-pixlab-502602-unsplash.jpg",
   "options": [
       {
         "text": "BACK TO THE BEGINNING",

@@ -25,7 +25,7 @@ class App extends Component {
       this.audio.pause();
       this.audio = new Audio(CitySounds);
       this.audio.play();
-    } else if ([40,41,42,43].indexOf(s) > -1){
+    } else if ([41,43].indexOf(s) > -1){
       this.audio.pause();
     } 
     
