@@ -1,4 +1,5 @@
 # Disaster Survival
+### Developer - Preston Cropp 
 
 The purpose of this application is to teach world history in a fun, interactive way. 
 
