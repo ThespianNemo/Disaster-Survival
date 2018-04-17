@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import scenes from './scenes.json';
 import Sound from 'react-sound';
-import CitySounds from './Audio/City-of-Dread_Looping.mp3'
-import Happy from './Audio/Happy-Endings.mp3'
+import CitySounds from './audio/City-of-Dread_Looping.mp3'
+import Happy from './audio/Happy-Endings.mp3'
 
 class App extends Component {
   constructor() {
